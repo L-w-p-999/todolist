@@ -1,0 +1,40 @@
+.compelete{
+    position: absolute;
+    left: -5px;
+    top:-4px;
+    width: 60px;
+    height: 63px;
+    border: black;
+    border-radius: 0px;
+}
+.task{
+    position:relative;
+    left: 500px;
+    top: 0px;
+    height: 60px;
+    width:600px;
+    background-color: white;
+    list-style: none;
+    color: black;
+}
+.deletethis{
+    height: 60px;
+    position: absolute;
+    left: 520px;
+    border-radius: 0px;
+    color: black;
+    background-color: white;
+    border: hidden;
+}
+.deletethis:focus{
+    border: hidden red;
+}
+.pp{
+    position: absolute;
+    left: 70px;
+    top: 1px;
+    font-size:20px;
+}
+.yinshen{
+    display: none;
+}

@@ -1,0 +1,43 @@
+.footer{
+    background-color: white;
+    width: 606px;
+    height: 70px;
+    position: relative;
+    top: 0px;
+    left:500px;
+}
+.style{
+    color: black;
+    background-color: white;
+    position: absolute;
+    top: 10px;
+    font-size: 15px;
+    font-weight:bold;
+
+}
+.clear{
+       position: absolute;
+       left: 520px;
+}
+.uncompelete{
+    position: absolute;
+    left: 330px;
+    width: 120px;
+}
+.compelete1{
+    position: absolute;
+    left:220px;
+    width: 100px;
+}
+.all{
+    position: absolute;
+    left: 160px;
+}
+div.number{
+    background-color:white;
+    color: black;
+    position: absolute;
+    left: 10px;
+    top: 19px;
+   
+}
